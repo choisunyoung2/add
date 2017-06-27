@@ -1,4 +1,4 @@
-package com.hanbit.algorithm.application.grade;
+package com.hanbit.algorithm.grade;
 
 import java.util.Scanner;
 public class SSN{
